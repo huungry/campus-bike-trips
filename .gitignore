@@ -218,5 +218,5 @@ __marimo__/
 .streamlit/secrets.toml
 
 #dataset
-.data/CS133-Assignment-04-dataset.csv
+data/CS133-Assignment-04-dataset.csv
 .DS_Store
