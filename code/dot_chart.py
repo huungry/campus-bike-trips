@@ -26,5 +26,5 @@ for side in ['top', 'right']:
     ax.spines[side].set_visible(False)
 
 plt.tight_layout()
-plt.savefig('problem3_chart.png', dpi=200)
+plt.savefig('charts/problem3_chart.png', dpi=200)
 plt.show()

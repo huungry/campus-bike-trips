@@ -219,4 +219,5 @@ __marimo__/
 
 #dataset
 data/CS133-Assignment-04-dataset.csv
+data/cleaned.csv
 .DS_Store
