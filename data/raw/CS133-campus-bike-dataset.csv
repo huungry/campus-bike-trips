@@ -1,0 +1,145 @@
+trip_id,trip_date,station_area,rider_type,weather,start_hour,distance_miles,duration_minutes,cost_dollars
+T001,2025-01-03,Student Union,Casual,Cloudy,8,5.5,21,1.69
+T002,2025-01-05,Engineering,Member,Clear,11,10.9,31,0.87
+T003,2025-01-07,Science Hall,Casual,Rain,14,6.7,34,1.79
+T004,2025-01-09,Library,Member,Cloudy,17,7.5,23,0.60
+T005,2025-01-11,Student Union,Casual,Clear,8,12.3,39,2.23
+T006,2025-01-13,Engineering,Member,Rain,11,12.9,52,1.03
+T007,2025-01-15,Science Hall,Casual,Cloudy,14,8.2,31,1.91
+T008,2025-01-17, library ,Member,Clear,17,13.3,44,1.06
+T009,2025-01-19,Student Union,Casual,Rain,8,9.5,44,2.01
+T010,2025-01-21,Engineering,Member,Cloudy,11,10.5,36,0.84
+T011,2025-01-23,Science Hall,Casual,Clear,14,8.6,27,1.94
+T012,2025-01-25,Library,Member,Rain,17,7.2,27,0.58
+T013,2025-02-04,Engineering,Member,Rain,9,9.9,47,0.79
+T014,2025-02-06,Science Hall,Casual,Cloudy,12,9.6,34,2.02
+T015,2025-02-08,Library,Member,Clear,15,10.4,34,0.83
+T016,2025-02-10,Student Union,Casual,Rain,18,10.6,46,2.10
+T017,2025-02-12,Engineering,Member,Cloudy,9,15.4,45,1.23
+T018,2025-02-14,Science Hall,Casual,Clear,12,11.0,38,2.13
+T019,2025-02-16,Library,member,Rain,15,8.9,40,0.71
+T020,2025-02-18,Student Union,Casual,Cloudy,18,8.7,33,1.95
+T021,2025-02-20,Engineering,Member,Clear,9,8.7,30,0.70
+T022,2025-02-22,Science Hall,Casual,Rain,12,6.2,26,1.75
+T023,2025-02-24,Library,Member,Cloudy,15,10.1,34,0.81
+T024,2025-02-26,Student Union,Casual,Clear,18,10.8,35,2.11
+T025,2025-03-05,Science Hall,Casual,Clear,10,7.8,28,1.87
+T026,2025-03-07,Library,Member,Rain,13,10.4,50,0.83
+T027,2025-03-09,Student Union,Casual,Cloudy,16,4.0,19,1.57
+T028,2025-03-11,Engineering,Member,Clear,7,8.7,31,0.70
+T029,2025-03-13,Science Hall,Casual,Rain,10,11.5,45,2.17
+T030,2025-03-15,Library,Member,Cloudy,13,15.8,50,1.26
+T031,2025-03-17,Student Union,Casual,Clear,16,4.8,16,1.63
+T032,2025-03-19,Engineering,Member,Rain,7,11.8,52,0.94
+T033,2025-03-21,Science Hall,Casual,Cloudy,10,12.8,43,2.27
+T034,2025-03-23,Library,Member,Clear,13,11.5,37,0.92
+T035,2025-03-25,Student Union,Casual,Rain,16,9.1,38,1.98
+T036,2025-03-02,STUDENT UNION,Member,Cloudy,7,11.9,38,0.95
+T037,2025-04-06,Library,Member,Cloudy,11,11.0,40,0.88
+T038,2025-04-08,Student Union,Casual,Clear,14,5.2,21,1.67
+T039,2025-04-10,Engineering,Member,Rain,17,6.7,31,0.54
+T040,2025-04-12,Science Hall,Casual,Cloudy,8,12.6,44,2.26
+T041,2025-04-14,Library,Member,Clear,11,12.3,41,0.98
+T042,2025-04-16,Student Union,Casual,Rain,14,5.0,27,1.65
+T043,2025-04-18,Engineering,Member,Cloudy,17,9.6,29,0.77
+T044,2025-04-20,Science Hall,Casual,Clear,8,11.9,46,2.20
+T045,2025-04-22,Library,Member,Rain,11,14.1,58,1.13
+T046,2025-04-24,Student Union,Casual,Cloudy,14,10.5,32,2.09
+T047,2025-04-26,Engineering,Member,Clear,17,12.5,39,1.00
+T048,2025-04-03,Science Hall,Casual,Rain,8,7.7,34,1.87
+T049,2025-05-07,Student Union,Casual,Rain,12,8.1,33,1.90
+T050,2025-05-09,Engineering,Member,Cloudy,15,12.9,35,1.03
+T051,2025-05-11,Science Hall,Casual,Clear,18,12.5,39,2.25
+T052,2025-05-13,Library,Member,Rain,9,11.4,48,0.91
+T053,2025-05-15,Student Union,Casual, rain ,12,11.3,38,2.15
+T054,2025-05-17,Engineering,Member,Clear,15,9.7,32,0.78
+T055,2025-05-19,Science Hall,Casual,Rain,18,8.6,40,1.94
+T056,2025-05-21,Library,Member,Cloudy,9,10.4,34,0.83
+T057,2025-05-23,Student Union,Casual,Clear,12,9.7,33,2.03
+T058,2025-05-25,Engineering,Member,Rain,15,13.2,55,1.06
+T059,2025-05-02,Science Hall,Casual,Cloudy,18,9.8,31,2.03
+T060,2025-05-04,Library,Member,Clear,9,9.6,30,0.77
+T061,2025-06-08,Engineering,Member,Clear,13,10.2,38,0.82
+T062,2025-06-10,Science Hall,Casual,Rain,16,8.4,36,1.92
+T063,2025-06-12,Library,Member,Cloudy,7,10.8,37,0.86
+T064,2025-06-14,Student Union,Casual,Clear,10,11.3,37,2.15
+T065,2025-06-16,Engineering,Member,Rain,13,15.4,n/a,1.23
+T066,2025-06-18,Science Hall,Casual,Cloudy,16,8.3,29,1.91
+T067,2025-06-20,Library,Member,Clear,7,14.5,52,1.16
+T068,2025-06-22,Student Union,Casual,Rain,10,7.1,32,1.82
+T069,2025-06-24,Engineering,Member,Cloudy,13,6.9,28,0.55
+T070,2025-06-26,Science Hall,Casual,Clear,16,12.1,42,2.22
+T071,2025-06-03,Library,Member,Rain,7,10.9,50,0.87
+T072,2025-06-05,Student Union,Casual,Cloudy,10,8.9,25,1.96
+T073,2025-07-09,Science Hall,Casual,Cloudy,14,9.7,31,2.03
+T074,2025-07-11,Library,Member,Clear,17,14.0,49,1.12
+T075,2025-07-13,Student Union,Casual,Rain,8,8.9,36,1.96
+T076,2025-07-15,Engineering,Member,Cloudy,11,9.2,34,0.74
+T077,2025-07-17,Science Hall,Casual,Clear,14,8.9,31,1.96
+T078,2025-07-19,Library,Member,Rain,17,13.1,59,1.05
+T079,2025-07-21,Student Union,Casual,Cloudy,8,9.8,35,2.03
+T080,2025-07-23,Engineering,Member,Clear,11,13.2,42,1.06
+T081,2025-07-25,Science Hall,Casual,Rain,14,13.9,60,2.36
+T082,2025-07-02,Library,Member,Cloudy,17,11.4,36,0.91
+T083,2025-07-04,Student Union,Casual,Clear,8,8.4,31,1.92
+T084,2025-07-06,Engineering,Member,Rain,11,11.1,50,0.89
+T085,2025-08-10,Library,Member,Rain,15,16.0,68,1.28
+T086,2025-08-12,Student Union,Casual,Cloudy,18,9.1,30,1.98
+T087,2025-08-14,Engineering,Member,Clear,9,13.8,44,1.10
+T088,2025-08-16,Science Hall,Casual,Rain,12,12.2,54,2.23
+T089,2025-08-18,Library,Member,Cloudy,15,9.6,33,0.77
+T090,2025-08-20,Student Union,Casual,Clear,18,9.7,34,2.03
+T091,2025-08-22,Engineering,Member,Rain,9,15.1,63,1.21
+T092,2025-08-24,Science Hall,Casual,Cloudy,12,,24,1.78
+T093,2025-08-26,Library,Member,Clear,15,11.6,39,0.93
+T094,2025-08-03,Student Union,Casual,Rain,18,10.3,47,2.07
+T095,2025-08-05,Engineering,Member,Cloudy,9,13.3,43,1.06
+T096,2025-08-07,Science Hall,Casual,Clear,12,12.5,43,2.25
+T097,2025-09-11,Student Union,Casual,Clear,16,10.2,33,2.07
+T098,2025-09-13,Engineering,Member,Rain,7,10.9,46,0.87
+T099,2025-09-15,Science Hall,Casual,Cloudy,10,11.2,35,2.15
+T100,2025-09-17,Library,Member,Clear,13,13.6,46,1.09
+T101,2025-09-19,Student Union,Casual,Rain,16,8.8,33,1.95
+T102,2025-09-21,Engineering,Member,Cloudy,7,14.9,49,1.19
+T103,2025-09-23,Science Hall,Casual,Clear,10,10.2,38,2.07
+T104,2025-09-25,Library,Member,Rain,13,13.1,60,1.05
+T105,2025-09-02,Student Union,Casual,Cloudy,16,10.7,35,2.11
+T106,2025-09-04,Engineering,Member,Clear,7,10.9,35,0.87
+T107,2025-09-06,Science Hall,Casual,Rain,10,12.3,53,2.23
+T108,2025-09-08,Library,Member,Cloudy,13,11.6,40,0.93
+T109,2025-10-12,Engineering,Member,Cloudy,17,14.6,47,1.17
+T110,2025-10-14,Science Hall,Casual,Clear,8,13.4,43,2.32
+T111,2025-10-16,Library,Member,Rain,11,15.3,64,1.22
+T112,2025-10-18,Student Union,Casual,Cloudy,14,10.6,32,2.10
+T113,2025-10-20,Engineering,Member,Clear,17,13.6,43,1.09
+T114,2025-10-22,Science Hall,Casual,Rain,8,11.4,55,2.16
+T115,2025-10-24,Library,Member,Cloudy,11,12.7,47,1.02
+T116,2025-10-26,Student Union,Casual,Clear,14,10.4,40,2.08
+T117,2025-10-03,Engineering,Member,Rain,17,17.4,76,1.39
+T118,2025-10-05,Science Hall,Casual,Cloudy,8,9.9,34,missing
+T119,2025-10-07,Library,Member,Clear,11,11.1,34,0.89
+T120,2025-10-09,Student Union,Casual,Rain,14,10.7,46,2.11
+T121,2025-11-13,Science Hall,Casual,Rain,18,11.6,55,2.18
+T122,2025-11-15,Library,Member,Cloudy,9,16.7,55,1.34
+T123,2025-11-17,Student Union,Casual,Clear,12,9.9,34,2.04
+T124,2025-11-19,Engineering,Member,Rain,15,13.8,56,1.10
+T125,2025-11-21,Science Hall,Casual,Cloudy,18,9.6,34,2.02
+T126,2025-11-23,Library,Member,Clear,9,11.7,41,0.94
+T127,2025-11-25,Student Union,Casual,Rain,12,6.5,32,1.77
+T128,2025-11-02,Engineering,Member,Cloudy,15,16.3,55,1.30
+T129,2025-11-04,Science Hall,Casual,Clear,18,9.9,32,2.04
+T130,2025-11-06,Library,Member,Rain,9,12.5,55,1.00
+T131,2025-11-08,Student Union,Casual,Cloudy,12,13.5,48,2.33
+T132,2025-11-10,Engineering,Member,Clear,15,17.0,0,1.36
+T133,2025-12-14,Library,Member,Clear,7,13.5,43,1.08
+T134,2025-12-16,Student Union,Casual,Rain,10,14.2,58,2.39
+T135,2025-12-18,Engineering,Member,Cloudy,13,12.5,41,1.00
+T136,2025-12-20,Science Hall,Casual,Clear,16,14.8,50,2.43
+T137,2025-12-22,Library,Member,Rain,7,15.6,66,1.25
+T138,2025-12-24,Student Union,Casual,Cloudy,10,12.2,40,2.23
+T139,2025-12-26,Engineering,Member,Clear,13,13.9,46,1.11
+T140,2025-12-03,Science Hall,Casual,Rain,16,13.5,60,2.33
+T141,2025-12-05,Library,Member,Cloudy,7,13.5,44,1.08
+T142,2025-12-07,Engineering ,Casual,Clear,10,12.2,43,2.23
+T143,2025-12-09,Engineering,Member,Rain,13,16.5,72,1.32
+T144,2025-12-11,Science Hall,Casual,Cloudy,16,9.0,26,1.97
